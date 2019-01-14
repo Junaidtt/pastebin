@@ -1,4 +1,4 @@
-# pastebin
+# Pastebin
 
 Our pastebin will be able to
 
